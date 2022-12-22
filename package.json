@@ -1,0 +1,28 @@
+{
+  "name": "location-based-search",
+  "version": "1.0.0",
+  "description": "enter location from google map, search location with google map",
+  "main": "search-location.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashu-pro/location-based-search.git"
+  },
+  "keywords": [
+    "location",
+    "search",
+    "google",
+    "map",
+    "location",
+    "based",
+    "search"
+  ],
+  "author": "rashu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashu-pro/location-based-search/issues"
+  },
+  "homepage": "https://github.com/rashu-pro/location-based-search#readme"
+}
